@@ -1,0 +1,11 @@
+Lunar IPS (LIPS) Version 1.03
+Apply IPS Patch Log
+
+Offset    Size    RLE    IPS_File_Range       IPS_File_Size
+------    ----    ID     00000000-00000004        5
+00027C       5    No     00000005-0000000E        A
+0002B1       2    No     0000000F-00000015        7
+003450       4    No     00000016-0000001E        9
+------    ----    EOF    0000001F-00000021        3
+
+Total Patches: 3 (3)
